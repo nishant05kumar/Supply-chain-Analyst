@@ -424,14 +424,6 @@ MIT License - Copyright (c) 2024 Your Name
 
 ---
 
-## 👥 Team
-
-- **Your Name** - *Project Lead & Full Stack Developer* - [GitHub](https://github.com/yourusername)
-- **Data Scientist** - *ML Models & Analytics*
-- **DevOps Engineer** - *Infrastructure & Deployment*
-
----
-
 ## 🙏 Acknowledgments
 
 - Thanks to all open-source contributors whose libraries made this possible
